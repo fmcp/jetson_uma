@@ -1,0 +1,2 @@
+https://www.ac.uma.es/~fcastro/files/ObjectDetection.zip
+https://www.ac.uma.es/~fcastro/files/PyTorchDemoApp.zip
