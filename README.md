@@ -1,6 +1,6 @@
 # Deep Learning Introduction: Samples
 
-These examples have been developed for the course "Deep Learning Introduction", taught by Francisco M. Castro.
+These examples have been developed for the course "Deep Learning Introduction", taught by Francisco M. Castro and Paula Ruiz Barroso.
 
 
 ## How to use
@@ -8,7 +8,7 @@ These examples have been developed for the course "Deep Learning Introduction", 
 Clone this repository with git.
 
 ```
-git clone https://github.com/fmcp/jetson_chile
+git clone https://github.com/fmcp/jetson_uma
 ```
 
 Maybe neccesary:
